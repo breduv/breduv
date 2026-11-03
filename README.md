@@ -6,8 +6,6 @@
 
 [breduv.ru](https://breduv.ru/) · [Telegram](https://t.me/found_bread)
 
-<img src="./assets/avatar.jpg" align="right" width="80" height="80" alt="breduv's hand-drawn avatar" />
-
 I build Telegram bots and tools for everyday tasks.<br />
 Mostly Python, automation, and self-hosted services.
 
