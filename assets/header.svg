@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">breduv — we are friends</title>
+  <desc id="description">An off-white breduv wordmark on a dark grid, with an orange accent and a wireframe motif.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#232320" stroke-width="1" />
+    </pattern>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.5" fill="#fff" fill-opacity="0.045" />
+    </pattern>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(955 166) scale(210 140)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff5a1f" stop-opacity="0.075" />
+      <stop offset="1" stop-color="#ff5a1f" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="8" fill="#0c0c0b" />
+  <rect width="1200" height="320" rx="8" fill="url(#grid)" />
+  <rect width="1200" height="320" rx="8" fill="url(#dots)" />
+  <rect width="1200" height="320" rx="8" fill="url(#glow)" />
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="7.5" stroke="#30302b" />
+
+  <g font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="2">
+    <text x="52" y="43" fill="#a3a299">BREDUV <tspan fill="#ff5a1f">/</tspan> 001</text>
+    <text x="1148" y="43" fill="#a3a299" text-anchor="end">PERSONAL SPACE</text>
+  </g>
+
+  <path d="M56 113L42 215" stroke="#ff5a1f" stroke-width="3" />
+  <text x="80" y="214" fill="#e8e6dd" font-family="Arial, Helvetica, sans-serif" font-size="144" font-weight="400" letter-spacing="-8">breduv</text>
+  <text x="88" y="253" fill="#a3a299" font-family="'Courier New', Courier, monospace" font-size="11" letter-spacing="3">WE ARE FRIENDS</text>
+
+  <g stroke="#b2afa3" stroke-opacity="0.19" stroke-width="1">
+    <path d="M790 110L838 92L890 91L943 103L997 101L1051 94L1104 109" />
+    <path d="M784 146L835 130L888 126L943 133L999 136L1054 131L1109 143" />
+    <path d="M784 181L835 175L888 177L943 189L999 178L1054 171L1109 178" />
+    <path d="M790 218L838 219L890 227L943 240L997 225L1051 213L1104 215" />
+    <path d="M800 253L846 256L896 267L943 272L992 263L1043 250L1093 250" />
+    <path d="M790 110L784 146V181L790 218L800 253" />
+    <path d="M838 92L835 130V175L838 219L846 256" />
+    <path d="M890 91L888 126V177L890 227L896 267" />
+    <path d="M943 103V133V189V240V272" />
+    <path d="M997 101L999 136V178L997 225L992 263" />
+    <path d="M1051 94L1054 131V171L1051 213L1043 250" />
+    <path d="M1104 109L1109 143V178L1104 215L1093 250" />
+  </g>
+  <g fill="#ff5a1f">
+    <circle cx="838" cy="92" r="2" fill-opacity="0.5" />
+    <circle cx="888" cy="126" r="2" fill-opacity="0.6" />
+    <circle cx="835" cy="175" r="2" fill-opacity="0.35" />
+    <circle cx="943" cy="189" r="3" />
+    <circle cx="997" cy="225" r="2" fill-opacity="0.65" />
+    <circle cx="1054" cy="131" r="2" fill-opacity="0.4" />
+    <circle cx="1104" cy="215" r="2" fill-opacity="0.5" />
+    <circle cx="943" cy="272" r="2" fill-opacity="0.35" />
+  </g>
+
+  <path d="M52 286H76" stroke="#ff5a1f" stroke-width="2" />
+  <text x="1148" y="290" fill="#a3a299" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2">BREDUV.RU</text>
+</svg>
