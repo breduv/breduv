@@ -4,13 +4,21 @@
   </a>
 </p>
 
-I build self-hosted Telegram bots and desktop tools for everyday tasks.
+I build self-hosted apps, Telegram bots, and desktop tools for everyday tasks.
 
 **Stack** · Python · aiogram · Docker · Linux
 
 [breduv.ru](https://breduv.ru/) · [Telegram](https://t.me/found_bread)
 
 ## Selected projects
+
+### [FreeLingo](https://github.com/breduv/freelingo)
+
+A self-hosted language learning app with an AI tutor, voice conversations, and flashcards.
+Follow a structured A1–C2 study plan and review vocabulary with spaced repetition. This fork adds
+AI settings in the browser and local ChatGPT sign-in. Based on [artcc/freelingo](https://github.com/artcc/freelingo).
+
+<sub>Python · FastAPI · Next.js · PostgreSQL · Redis · Docker Compose</sub>
 
 ### [Hapuga](https://github.com/breduv/Hapuga)
 
